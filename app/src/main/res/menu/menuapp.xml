@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/profile"
+        android:icon="@drawable/img_profile_icon"
+        android:title="Perfil" />
+    <item
+        android:id="@+id/publications"
+        android:icon="@drawable/img_publications_icon"
+        android:title="Publicaciones" />
+    <item
+        android:id="@+id/mapTab"
+        android:icon="@drawable/img_map_icon"
+        android:title="Mapa" />
+</menu>

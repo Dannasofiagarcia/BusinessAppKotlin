@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Icesi sites</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="default_image_text">Ninguna imagen para mostrar</string>
+    <string name="default_business_name">Negocio por defecto</string>
+    <string name="add_business_image">Agregar imagen de negocio.</string>
+    <string name="modify_business_name">Modificar nombre de negocio</string>
+    <string name="default_business_description">Inserte aquí una descripción apropiada para su negocio. El autor de las publicaciones que haga en el fragmento “publicaciones” será negocio que se registre en este fragment</string>
+    <string name="business_name_title">Nombre del negocio</string>
+    <string name="business_name_hint">Negocio por defecto</string>
+    <string name="business_photo_title">Foto del Negocio</string>
+    <string name="business_description_title">Descripción</string>
+    <string name="edit_button_text">Editar</string>
+    <string name="start_date_desc">Fecha de Inicio</string>
+    <string name="end_date_desc">Fecha de fin</string>
+    <string name="event_name_desc">Campo del nombre del evento</string>
+    <string name="event_name_label">Nombre del evento</string>
+    <string name="start_date_default_text">Inicio</string>
+    <string name="end_date_defualt_text">Fin</string>
+</resources>
